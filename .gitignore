@@ -4,7 +4,7 @@
 **/.ipynb_checkpoints/
 **/cifar-10-batches-py
 */__pycache__/
-*.tar.gz
+*.gz
 *.zip
 *.pickle
 *.p
